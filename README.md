@@ -1,5 +1,5 @@
 # Prodigy InfoTech Internship: Software Development
-Welcome to the Prodigy InfoTech Internship repository! These repository documents are for Task 1 of my internship journey, which focuses on creating innovative, simple, flexible programs.
+Welcome to the Prodigy InfoTech Internship repository! These repository documents are for Task 2 of my internship journey, which focuses on creating innovative, simple, flexible programs.
 
 # Task Overview
 Create a program that generates random numbers and challenges the user to guess them. The program should encourage the user to input their guess, compare it To the 
