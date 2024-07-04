@@ -19,4 +19,4 @@ For any inquiries or collaborations, feel free to reach out:
 
 # Reference
 You may visit my LinkedIn post to refer.
-* Link:https://www.linkedin.com/posts/richa-jadyal-68b138259_hello-everyone-i-have-completed-task-activity-7214599185826799616-HdkG?utm_source=share&utm_medium=member_desktop
+* Link-https://www.linkedin.com/posts/richa-jadyal-68b138259_hello-everyone-i-have-completed-task-activity-7214599185826799616-HdkG?utm_source=share&utm_medium=member_desktop
